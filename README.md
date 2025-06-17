@@ -1,7 +1,5 @@
 # Ex06 BMI Calculator
-## Date:
-### Name : SANJAY KUMAR.B
-### Reg no: 212223220095
+### Reg no: 212223040078
 
 
 ## AIM
